@@ -124,3 +124,25 @@ The Clouve app, offered by Clouve Inc, serves as the primary tool for their clie
 - Add “Try Again” button to Custom Domain
 
 
+### Release 3.4.0:
+
+- Add a capability to scale up/down deployments’ capacities and their associated subscription plans
+    - Allow user to select a capacity and associated subscription plan while creating a new deployment
+    - Allow user to scale up/down existing deployments’ capacity
+    - This feature is only available to users with a subscription
+    - Show only selected capacity on checkout page
+- Add orgTicketId as a label to namespaces to make it easier for agents to find tickets’ resources
+- Check - Test create/prepare cluster locally and through cloud build
+- Fix - Gibbon’s capacity is not getting applied properly
+- Fix - Display limits only in “Allocated Resources” of the deployed applications to prevent confusion
+- Fix - Prevent using the same Custom Domain Name with two different deployments
+- Fix - Custom Domain Name is not reflected on namespace labels after launch
+- Fix - Add spinners after triggering user actions
+- Remove OrangeHRM in lieu of Odoo
+- Fix - Gibbon’s “Base URL” issue preventing systems admins from updating system settings
+- Fix - Updating profile picture does not enable the save button
+- Fix - Deployment settings “Custom Domain Name” of bundled deployments do not show subdomains
+- Fix - Allow the user to customize subdomains of apps within a deployment
+- Test Launch/Subscribe & Apply/Scale functions of the all deployments
+
+
