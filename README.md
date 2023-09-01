@@ -146,3 +146,12 @@ The Clouve app, offered by Clouve Inc, serves as the primary tool for their clie
 - Test Launch/Subscribe & Apply/Scale functions of the all deployments
 
 
+### Release Candidate 3.4.1:
+
+- Moodle - add a cronjob to call cron.php every minute
+- Increase the upload limit of nginx to 50MB
+- Agent: Add organization id beside name on Clients tab to make it easier to find
+- Agent: Add org id and tkt id on ticket details to make it easier to find
+
+
+
