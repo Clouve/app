@@ -154,13 +154,3 @@ The Clouve app, offered by Clouve Inc, serves as the primary tool for their clie
 - Agent: Add org id and tkt id on ticket details to make it easier to find
 
 
-
-### - Fix - Refund amount after capacity upgrade does not cover the full amount paid
-- Fix - Update ui:order of all jsonSchema forms in the DB
-- Agent: Fix - Clients tiles are messed up
-- Add a separate tab to allow users to scale up/down deployment capacity
-- Add a separate tab to allow users to configure the custom domain name field
-- Nice To Have - Add a shake effect on input validation failure
-
-
-
