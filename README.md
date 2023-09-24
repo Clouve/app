@@ -153,3 +153,6 @@ The Clouve app, offered by Clouve Inc, serves as the primary tool for their clie
 - Agent: Add organization id beside name on Clients tab to make it easier to find
 - Agent: Add org id and tkt id on ticket details to make it easier to find
 
+### [Release 3.4.2](prod-r342-2023-09-24-19-05-58.md)
+
+
