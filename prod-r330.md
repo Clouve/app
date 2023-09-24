@@ -1,0 +1,23 @@
+### Release 3.3.0:
+
+- Add a capability to add a hostname (cname) through the UI
+  - Create Deployment
+    - Upgrade react-jsonschema-form
+  - Move dns manipulation to thermo
+    - Gibbon deployment is failing
+  - Update Deployment to add/update/remove a custom domain
+    - Update all charts
+      - Check if updating a deployment overwrites passwords
+        - New password is being generated but not used - Needs to be fixed
+      - Use existingSecret
+      - Add auto generated passwords
+      - Fix UI for existing deployments by showing one Installed App
+    - Implement UI to trigger dnsName/extraDnsName update
+      - Fix ticket update
+      - Fix ticket estimated time drop downs and styles
+      - Create new thermo trigger for magneto
+      - Fix - Canceling a deployment clears domain name
+      - Fix - installed apps refresh issue
+- Fix - Resolved status
+- Fix - My Organization is not scrollable vertically on mobile
+- Fix - Users is not scrollable horizontally on mobile

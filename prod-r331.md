@@ -1,0 +1,14 @@
+### Release 3.3.1:
+- Create a bundle to include Moodle, Gibbon, and SuiteCRM (Education Management Suite - education-suite)
+- Create a bundle to include Wordpress, Moodle, Gibbon, and SuiteCRM (Comprehensive Education Management Suite - education-suite-comprehensive)
+- Add extraHosts to ingress manifests
+- Test Deployments
+- Test adding a Custom Domain for App Suites
+- Test updating the Custom Domain for App Suites
+  - Fix - Update button stays disabled even after changing Custom Domain field
+  - Fix - Remove old dns record before updating dnsName
+  - Fix - The value of property "_raw_data" is longer than 1048487 bytes
+  - Fix - stateChange updates
+- Test adding a Custom Domain for Apps
+- Test updating the Custom Domain for Apps
+  - Fix - Custom Domain update for Gibbon
