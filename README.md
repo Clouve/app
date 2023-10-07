@@ -38,3 +38,6 @@ The Clouve app, offered by Clouve Inc, serves as the primary tool for their clie
 ### [Release 3.4.4](prod-r344-2023-10-05-16-08-36.md)
 
 
+### [Release 3.4.5](prod-r345-2023-10-07-00-46-26.md)
+
+
